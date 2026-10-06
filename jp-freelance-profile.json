@@ -1,13 +1,59 @@
 {
   "name": "瀧勝巳",
   "title": "動画編集者／SNS運用サポート",
-  "skills": ["ショート動画編集", "YouTube動画編集", "SNS運用サポート"],
+  "skills": [
+    "ショート動画編集",
+    "YouTube動画編集",
+    "SNS運用サポート"
+  ],
   "tools": "Premiere Pro・Vrewでの編集に加え、ChatGPT・Claudeを活用して台本作成や構成案出しも効率化しています",
   "achievement": "YouTube動画を70本制作（現在も継続案件として進行中）",
   "defaultStrength": "これまでYouTube動画を70本制作し、現在も継続でご依頼をいただいています。Premiere Pro・Vrewに加えChatGPT・Claudeも活用し、スピードと品質の両立を心がけています。",
   "keywordMap": [
-    { "triggers": ["ショート", "reels", "リール", "tiktok", "shorts", "縦型"], "strength": "YouTube動画70本の編集経験を活かし、冒頭数秒で離脱させないテンポのショート動画を制作します。Vrewでのテロップ処理で量産にも対応できます。" },
-    { "triggers": ["youtube", "ユーチューブ", "チャンネル"], "strength": "YouTube動画を70本制作し、現在も継続でご依頼をいただいています。カット・テロップ・BGMまで一貫して対応可能です。" },
-    { "triggers": ["sns", "instagram", "インスタ", "運用"], "strength": "動画編集に加え、ChatGPT・Claudeを活用した投稿文や企画案の作成など、SNS運用のサポートも可能です。" }
-  ]
+    {
+      "triggers": [
+        "ショート",
+        "reels",
+        "リール",
+        "tiktok",
+        "shorts",
+        "縦型"
+      ],
+      "strength": "YouTube動画70本の編集経験を活かし、冒頭数秒で離脱させないテンポのショート動画を制作します。Vrewでのテロップ処理で量産にも対応できます。"
+    },
+    {
+      "triggers": [
+        "youtube",
+        "ユーチューブ",
+        "チャンネル"
+      ],
+      "strength": "YouTube動画を70本制作し、現在も継続でご依頼をいただいています。カット・テロップ・BGMまで一貫して対応可能です。"
+    },
+    {
+      "triggers": [
+        "sns",
+        "instagram",
+        "インスタ",
+        "運用"
+      ],
+      "strength": "動画編集に加え、ChatGPT・Claudeを活用した投稿文や企画案の作成など、SNS運用のサポートも可能です。"
+    }
+  ],
+  "targetConditions": {
+    "roles": [
+      "動画編集",
+      "Instagram運用サポート"
+    ],
+    "minPrice": {
+      "動画編集（横型・YouTube等）": "1本10,000円以上",
+      "ショート動画": "1本5,000円以上",
+      "Instagram運用サポート": "月30,000円以上"
+    },
+    "workStyle": "リモート",
+    "contract": "継続・単発どちらも可",
+    "platforms": [
+      "複業クラウド",
+      "Indeed"
+    ]
+  }
 }
