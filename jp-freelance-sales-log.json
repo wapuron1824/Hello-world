@@ -1,0 +1,28 @@
+{
+  "note": "営業リストに出した案件の記録。応募済みにしたものは status を applied に変える",
+  "presented": [
+    {"date": "2026-10-06", "platform": "Wantedly", "id": "2298060", "title": "BESW 縦型動画編集", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "Wantedly", "id": "2271691", "title": "ANDGIVE SNSショート動画編集", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "Wantedly", "id": "2468112", "title": "アンモナイトワークス 美容系リール編集", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "Wantedly", "id": "2447618", "title": "MODE-1 PARTNERS YouTube編集者", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "複業クラウド", "id": "32231", "title": "東京ダイム ショート動画", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "CrowdWorks", "id": "13507222", "title": "ホテル・貸別荘 縦型ショート", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "CrowdWorks", "id": "13507628", "title": "共感系ショート 1本7,000円", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "CrowdWorks", "id": "13507726", "title": "不動産系YouTube 1本22,000円", "status": "drafted"},
+    {"date": "2026-10-06", "platform": "CrowdWorks", "id": "13507677", "title": "ビーヘルシー 長尺YouTube", "status": "drafted"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13514244", "title": "旅系YouTube 1本18,000〜35,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13514618", "title": "ビジネス系YouTube 1本19,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13515396", "title": "健康・ダイエット系YouTube 11,000〜14,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13515311", "title": "登録者30万人超 YouTubeロング 8,000〜10,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13515893", "title": "YouTube 1本10,000円〜", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13514177", "title": "経営者対談YouTube 1本10,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13515756", "title": "YouTube20分 1本8,800円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13505431", "title": "20代働き方SNS ショート 1投稿3,500円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13514824", "title": "ショート動画 1本3,000〜5,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13511256", "title": "20代社会人の暮らし ショート 1本5,000円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13514426", "title": "フォトスタジオ Instagram運用 月5万円", "status": "listed"},
+    {"date": "2026-10-08", "platform": "CrowdWorks", "id": "13516036", "title": "美容ヘルスケア Instagram・TikTok運用 時給2,000円〜", "status": "listed"},
+    {"date": "2026-10-08", "platform": "Wantedly", "id": "2390634", "title": "WEB GRAM SNS・PR動画編集", "status": "listed"},
+    {"date": "2026-10-08", "platform": "Wantedly", "id": "1431577", "title": "メイト SNS運用 フルリモート", "status": "listed"}
+  ]
+}
