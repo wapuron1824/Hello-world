@@ -6,14 +6,14 @@
       "platform": "Wantedly",
       "id": "2298060",
       "title": "BESW 縦型動画編集",
-      "status": "applied"
+      "status": "declined"
     },
     {
       "date": "2026-10-06",
       "platform": "Wantedly",
       "id": "2271691",
       "title": "ANDGIVE SNSショート動画編集",
-      "status": "applied"
+      "status": "declined"
     },
     {
       "date": "2026-10-06",
@@ -55,7 +55,7 @@
       "platform": "CrowdWorks",
       "id": "13507726",
       "title": "不動産系YouTube 1本22,000円",
-      "status": "applied"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-06",
@@ -69,7 +69,7 @@
       "platform": "CrowdWorks",
       "id": "13514244",
       "title": "旅系YouTube 1本18,000〜35,000円",
-      "status": "applied"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-08",
@@ -83,7 +83,7 @@
       "platform": "CrowdWorks",
       "id": "13515396",
       "title": "健康・ダイエット系YouTube 11,000〜14,000円",
-      "status": "applied"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-08",
@@ -307,7 +307,7 @@
       "platform": "CrowdWorks",
       "id": "13527809",
       "title": "クルーズ船YouTube 10,000〜25,000円",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-13",
@@ -433,6 +433,76 @@
       "platform": "CrowdWorks",
       "id": "13533472",
       "title": "ショート動画 3,000〜5,000円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13540312",
+      "title": "企業YouTube長尺 15,000〜30,000円",
+      "status": "drafted"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13541543",
+      "title": "EC小売 LINE・Instagram運用 月6万円",
+      "status": "drafted"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13542724",
+      "title": "2chショート 5,000円",
+      "status": "drafted"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13540328",
+      "title": "心理・科学解説YouTube AI動画 12,000円〜",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13542789",
+      "title": "2ch系YouTube仕上げ 10,000〜40,000円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13540582",
+      "title": "カフェ・グルメIG投稿作成 月3〜5万円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13540307",
+      "title": "YouTubeショート風縦型 5,500円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13506060",
+      "title": "ソロ旅Vlog 4,000円〜",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13541801",
+      "title": "秋コーデリール 3,500円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-19",
+      "platform": "CrowdWorks",
+      "id": "13542100",
+      "title": "カット編集 長尺5,000〜18,000円",
       "status": "listed"
     }
   ]
