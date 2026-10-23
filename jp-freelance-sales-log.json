@@ -20,35 +20,35 @@
       "platform": "Wantedly",
       "id": "2468112",
       "title": "アンモナイトワークス 美容系リール編集",
-      "status": "drafted"
+      "status": "doc_rejected"
     },
     {
       "date": "2026-10-06",
       "platform": "Wantedly",
       "id": "2447618",
       "title": "MODE-1 PARTNERS YouTube編集者",
-      "status": "drafted"
+      "status": "doc_rejected"
     },
     {
       "date": "2026-10-06",
       "platform": "複業クラウド",
       "id": "32231",
       "title": "東京ダイム ショート動画",
-      "status": "drafted"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-06",
       "platform": "CrowdWorks",
       "id": "13507222",
       "title": "ホテル・貸別荘 縦型ショート",
-      "status": "applied"
+      "status": "doc_rejected"
     },
     {
       "date": "2026-10-06",
       "platform": "CrowdWorks",
       "id": "13507628",
       "title": "共感系ショート 1本7,000円",
-      "status": "applied"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-06",
@@ -62,7 +62,7 @@
       "platform": "CrowdWorks",
       "id": "13507677",
       "title": "ビーヘルシー 長尺YouTube",
-      "status": "applied"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-08",
@@ -76,7 +76,7 @@
       "platform": "CrowdWorks",
       "id": "13514618",
       "title": "ビジネス系YouTube 1本19,000円",
-      "status": "applied"
+      "status": "interview_rejected"
     },
     {
       "date": "2026-10-08",
@@ -139,7 +139,7 @@
       "platform": "CrowdWorks",
       "id": "13514426",
       "title": "フォトスタジオ Instagram運用 月5万円",
-      "status": "applied"
+      "status": "interview_rejected"
     },
     {
       "date": "2026-10-08",
@@ -167,28 +167,28 @@
       "platform": "CrowdWorks",
       "id": "13522472",
       "title": "教育系YouTube 1本10,000円",
-      "status": "drafted"
+      "status": "no_reply"
     },
     {
       "date": "2026-10-11",
       "platform": "CrowdWorks",
       "id": "13522299",
       "title": "暮らし・美容系IGリール編集＆投稿 月5万円",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-11",
       "platform": "CrowdWorks",
       "id": "13520777",
       "title": "ゴルフアパレル 縦型広告・リール 1本10,000〜20,000円",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-11",
       "platform": "CrowdWorks",
       "id": "13516793",
       "title": "医療・健康YouTubeショート 1本4,000円〜",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-11",
@@ -237,7 +237,7 @@
       "platform": "CrowdWorks",
       "id": "13524668",
       "title": "医師 胃腸の健康YouTube 8,000〜15,000円",
-      "status": "drafted"
+      "status": "doc_rejected"
     },
     {
       "date": "2026-10-12",
@@ -251,7 +251,7 @@
       "platform": "CrowdWorks",
       "id": "13526744",
       "title": "AI解説系YouTube 35,000円",
-      "status": "drafted"
+      "status": "doc_rejected"
     },
     {
       "date": "2026-10-12",
@@ -314,7 +314,7 @@
       "platform": "CrowdWorks",
       "id": "13526644",
       "title": "ビジネス系YouTube20分 8,000→10,000円",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-13",
@@ -370,7 +370,7 @@
       "platform": "CrowdWorks",
       "id": "13505219",
       "title": "エンタメYouTuber対談・外ロケ 11,000円",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-14",
@@ -447,7 +447,7 @@
       "platform": "CrowdWorks",
       "id": "13541543",
       "title": "EC小売 LINE・Instagram運用 月6万円",
-      "status": "drafted"
+      "status": "declined"
     },
     {
       "date": "2026-10-19",
@@ -573,6 +573,76 @@
       "platform": "CrowdWorks",
       "id": "13552160",
       "title": "IGリール編集とサムネ 3,000〜5,000円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13554796",
+      "title": "美容・サロン系YouTube 10,000円",
+      "status": "drafted"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13553713",
+      "title": "ビジネス動画パートナー 7,000〜30,000円",
+      "status": "drafted"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13554049",
+      "title": "美容系IG運用 月3万円",
+      "status": "drafted"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13556406",
+      "title": "ファッションショート 月3〜5万円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13553465",
+      "title": "VOCALOIDアニメコントショート 5,000円〜",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13556345",
+      "title": "医療健康ショート 3,000〜5,000円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13555387",
+      "title": "猫カフェPR 4,000円〜",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13555353",
+      "title": "海外リゾート動画 4,000円〜",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13554740",
+      "title": "SNS投稿作成 3,000〜6,000円",
+      "status": "listed"
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "CrowdWorks",
+      "id": "13554405",
+      "title": "江戸時代の話YouTube 10,000円",
       "status": "listed"
     }
   ]
